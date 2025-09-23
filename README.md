@@ -63,13 +63,16 @@ The system fetches prices, processes news, contextualizes macro data, routes tas
 
 ---
 
-##👥 Team Contributions (Revised for Two Members)
-- Pavan Kumar Kallakuri – Agent Design & Workflow Implementation
+##👥 Team Contributions 
+
+**Pavan Kumar Kallakuri – Agent Design & Workflow Implementation**
 - Designed InvestmentResearchAgent including planning logic, run loop, and memory keeper.
 - Built prompt-chaining NewsAgent and routing logic.
 - Led evaluator–optimizer integration and refinement.
 - Drafted system architecture and internal documentation.
-- Sajesh Kariadan – Data Integration & Reporting
+
+**Sajesh Kariadan – Data Integration & Reporting**
+
 - Developed tool wrappers for yfinance (NSE), mock Indian news, and RBI macroeconomic data.
 - Created fallback data generators and visualizations.
 - Implemented reporting structure and export functions (PDF/HTML).
